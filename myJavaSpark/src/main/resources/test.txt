@@ -1,0 +1,2 @@
+1	Heart
+2	Diamonds
